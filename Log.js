@@ -5,6 +5,7 @@ class Log extends BaseClass {
       this.image = loadImage("wood2.png");
       Matter.Body.setAngle(this.body, angle);
       
+        
     }
   };
   
